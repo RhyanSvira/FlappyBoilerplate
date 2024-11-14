@@ -1,6 +1,6 @@
 # Unity WebGL CI/CD with GitHub Actions
 
-WebGL published here (EDIT IT!) 
+WebGL published here https://RhyanSvira.github.io/FlappyBoilerplate/
 
 # Setup Steps:
 
