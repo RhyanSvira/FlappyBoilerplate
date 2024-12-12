@@ -9,9 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/flappy.unity
     guid: 87843f659a592e34e8f72c7f772c96c9
   - enabled: 0
-    path: Assets/Scenes/MainMenu.unity
-    guid: 8a601ed502b0e624583797c9bd807a2e
-  - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
   m_configObjects: {}
