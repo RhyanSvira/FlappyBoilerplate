@@ -24,9 +24,6 @@ public class Player : MonoBehaviour
         if (other.gameObject.tag == "Obstacle")
         {
             FindObjectOfType<GameManager>().GameOver();
-        } else if (other.gameObject.tag == "Scoring")
-        {
-            FindObjectOfType<GameManager>().IncreaseScore();
-        }
+        } 
     }
 }
